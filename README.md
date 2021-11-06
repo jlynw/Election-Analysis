@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Election-Analysis gitbash to hub
+=======
+# Election-Analysis TEST
+>>>>>>> 04743bbb8222e196884f624a92d50043ceb5ffc3
 
 ## Project Overview
 A Colorado Board of elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
