@@ -34,4 +34,4 @@ Below are the results of the election.
     - Diana DeGette Stockham, who received 73.8% of the vote and 272,892 number of votes.
    
 ## Election-Audit Summary
-This script can be modified to be used for any election. For instance, it can be modified for the presidential election to analyze a larger dataset including states and their votes. The dictionary created for county can be modified for states instead. Another example is modifying the code to include demographics such as age, gender, and sex. New key-value pairs can be added to obverve demographic trends in a population of voters. 
+This script can be modified to be used for any election. For instance, it can be modified for the presidential election to analyze a larger dataset including states and their votes. The dictionary created for county can be modified for states instead. Another example is modifying the code to include demographics such as age, gender, and sex. New key-value pairs can be added to obverve demographic trends of population(s) of voters. 
