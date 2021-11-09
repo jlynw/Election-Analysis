@@ -17,6 +17,7 @@ A Colorado Board of elections employee has given you the following tasks to comp
 
 ## Election-Audit Results
 Below are the results of the election.
+
 ![election_results.PNG](https://github.com/jlynw/Election-Analysis/blob/main/Resources/election_results.PNG)
 
 - 369,711 votes were casted in this congressional election.
