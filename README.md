@@ -20,13 +20,12 @@ Below are the results of the election.
 
 ![election_results.PNG](https://github.com/jlynw/Election-Analysis/blob/main/Resources/election_results.PNG)
 
-- 369,711 votes were casted in this congressional election.
+- 369,711 votes were casted in this election.
 - The votes casted by each county:
     - Jefferson casted 10.5% of the total votes and 38,855 number of votes.
     - Denver casted 82.8% of the total votes and 306,055 number of votes.
     - Arapahoe casted 6.7% of the toal vote and 24,801 number of votes.
 - Denver had the largest number of votes.
-- Of the toal votes, Charles Casper won 23.0%, Diana 
 - The canidate results were:
     - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
     - Diana DeGette received 73.8% of the vote and 272,892 number of votes
