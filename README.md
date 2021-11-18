@@ -12,7 +12,7 @@ A Colorado Board of elections employee has given you the following tasks to comp
 8. Determine the county with the highest turnout.
 
 ## Resources
-- Date Source: election_results.csv
+- Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Election-Audit Results
