@@ -18,7 +18,7 @@ A Colorado Board of elections employee has given you the following tasks to comp
 ## Election-Audit Results
 Below are the results of the election.
 
-![election_results.PNG](https://github.com/jlynw/Election-Analysis/blob/main/Analysis/election_results.PNG)
+![election_results.PNG](https://github.com/jlynw/Election-Analysis/blob/main/Analysis/election_analysis.PNG)
 
 - 369,711 votes were casted in this election.
 - The votes casted by each county:
